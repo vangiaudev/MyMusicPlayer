@@ -1,6 +1,6 @@
 
 # TRÌNH PHÁT NHẠC NHẠC CÁ NHÂN
-- Link: https://vangiaurecca.github.io/MyMusicPlayer/Media/index.html 
+- Link: https://vangiaudev.github.io/MyMusicPlayer/Media/index.html 
 
 - Tổng hợp những bản hit cover hay nhất của Nguyễn Văn Giàu
 <div>
